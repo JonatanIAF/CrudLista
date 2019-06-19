@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714057809837",
+    "firebase_url": "https://crudlista-82be0.firebaseio.com",
+    "project_id": "crudlista-82be0",
+    "storage_bucket": "crudlista-82be0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714057809837:android:4581d2db791ef939",
+        "android_client_info": {
+          "package_name": "app.firebase.crudlista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714057809837-f9f1s7euvq08ndaov7ihldnch6ks9mpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.firebase.crudlista",
+            "certificate_hash": "4279dbf7832df6781ea34b05280f2edad11f8dc1"
+          }
+        },
+        {
+          "client_id": "714057809837-oc48tbf48dhk4fbbv6rgao6gs3onjph9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCasl1P2zZQBYCYTncRn0gsVP-xXTWnkyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714057809837-oc48tbf48dhk4fbbv6rgao6gs3onjph9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
